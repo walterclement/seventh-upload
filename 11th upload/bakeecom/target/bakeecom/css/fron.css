@@ -1,0 +1,23 @@
+body{
+  margin: 0 auto;
+}
+
+.container{
+  margin-left: -30px;
+}
+
+.btn-login{
+  padding: 15px 60px;
+  color: #fff;
+  border-radius: 4px;
+  background-color: #34aafc;
+  border: none;
+  border-bottom: 4px solid #34c8fc;
+  margin-top:-120px;
+
+}
+
+.but{
+  margin-top: -390px;
+  margin-left: 600px;
+}
